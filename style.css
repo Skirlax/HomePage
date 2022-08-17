@@ -1,0 +1,41 @@
+h1 {
+    font-size: 50px;
+    color: rgb(181, 16, 93);
+    text-align: center;
+    padding-top: 200px;
+}  
+
+.pages {
+    width: 80%;
+    margin: auto;
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+    /* flex-direction: row; */
+    align-items: center;
+    
+}
+.page {
+
+    width: 50px;
+    height: 50px;
+    padding: 30px;
+    /* put it to the center */
+    
+    
+    
+}
+.page:hover {
+    transform: scale(1.2);
+}
+/* #page1 {
+    a
+} */
+.imgs {
+    width: 120%;
+    height: 120%;
+}
+p {
+    text-align: center;
+    font-size: 20px;
+}
